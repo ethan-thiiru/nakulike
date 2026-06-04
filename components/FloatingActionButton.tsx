@@ -1,4 +1,4 @@
-import { UserProfile } from 'firebase/auth';
+import { UserProfile } from '@/lib/types'
 import React from 'react'
 import { Button } from './ui/button';
 import { RewindIcon } from 'lucide-react';
