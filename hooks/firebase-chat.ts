@@ -1,3 +1,4 @@
+'use client'
 import { db } from "@/lib/firebase"
 import { ChatMessage, Conversation, UserProfile } from "@/lib/types";
 import { addDoc, collection, deleteDoc, doc, getDoc, getDocs, onSnapshot, orderBy, query, updateDoc, where, serverTimestamp } from "firebase/firestore";

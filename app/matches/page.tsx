@@ -1,3 +1,4 @@
+'use client'
 import { useDiscovery } from '@/hooks/useDiscovery'
 import { UserProfile } from '@/lib/types'
 import { User } from 'firebase/auth'

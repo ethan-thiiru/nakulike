@@ -1,3 +1,4 @@
+'use client'
 import Chat from '@/components/ChatPage/Chat'
 import ConversationList from '@/components/ChatPage/ConversationList'
 import { SelectedConversation, UserProfile } from '@/lib/types'

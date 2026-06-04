@@ -1,3 +1,4 @@
+'use client'
 import FloatingActionButton from '@/components/FloatingActionButton'
 import SwipeableCard from '@/components/SwipeableCard'
 import { Button } from '@/components/ui/button'

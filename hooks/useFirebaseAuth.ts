@@ -1,3 +1,4 @@
+'use client'
 import { signOut, onAuthStateChanged } from 'firebase/auth';
 import { useCallback, useEffect, useState } from 'react';
 import { auth } from '@/lib/firebase'; // ← import the initialized instance
